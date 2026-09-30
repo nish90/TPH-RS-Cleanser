@@ -1,0 +1,6 @@
+{
+  "name": "The Pure Herb — Herbal Hair Cleanser",
+  "description": "A mobile-first, calm waitlist landing page for The Pure Herb's small-batch Reetha-Shikakai hair cleanser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
